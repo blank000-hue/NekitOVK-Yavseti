@@ -1,3 +1,4 @@
+@-moz-document domain("nekitovk.veliona.no") {
   #button {
     background: #4ae404;
   }
@@ -61,3 +62,4 @@
   #Tabs .Tab a {
     color: #569F5F;
   }
+}
