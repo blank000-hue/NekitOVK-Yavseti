@@ -1,3 +1,5 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
 @-moz-document domain("nekitovk.veliona.no") {
   #button {
     background: #4ae404;
@@ -61,5 +63,9 @@
   }
   #Tabs .Tab a {
     color: #569F5F;
+  }
+  #buttontour {
+    background-color: #BEF4BD;
+    border: 1px solid #9FCF96;
   }
 }
